@@ -32,8 +32,3 @@ Building scalable AI solutions using **Java Spring Boot** and **Python**.
 | **Observability** | Prometheus, Grafana, ELK Stack |
 
 ---
-
-### 🏆 Achievements
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=qicesun&theme=flat&no-frame=true&column=7" alt="trophy" />
-</div>
