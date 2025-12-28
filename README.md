@@ -6,13 +6,11 @@
     <br>
     Core Contributor to the Java AI Ecosystem.
   </p>
+  
   <p>
-     <a href="https://www.linkedin.com/in/qice-sun-swe/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-     </a>
-     <a href="mailto:qicesun0401@gmail.com">
-       <img src="https://img.shields.io/badge/qicesun0401@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-     </a>
+    📧 <a href="mailto:qicesun0401@gmail.com">qicesun0401@gmail.com</a>
+    &nbsp; | &nbsp;
+    🔗 <a href="https://www.linkedin.com/in/qice-sun-swe/" target="_blank">LinkedIn Profile</a>
   </p>
 </div>
 
@@ -35,16 +33,8 @@ Building scalable AI solutions using **Java Spring Boot** and **Python**.
 
 ---
 
-### 💼 Professional Experience
-**Software Engineer @ Walmart Global Tech**
-* Building **Multimodal RAG agents** for last-mile delivery operations, automating 40% of anomaly tickets.
-* Architecting **Self-correcting Agentic Workflows** with Human-in-the-loop mechanisms.
-* Optimizing high-performance inference infrastructure on **Azure AKS**.
-
----
-
 ### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=qicesun&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qicesun&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qicesun&show_icons=true&theme=radical&count_private=true" height="150" alt="Qice Sun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qicesun&layout=compact&theme=radical&langs_count=6" height="150" alt="Top Languages" />
 </div>
