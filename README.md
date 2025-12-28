@@ -34,7 +34,6 @@ Building scalable AI solutions using **Java Spring Boot** and **Python**.
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qicesun&show_icons=true&theme=radical&count_private=true" height="150" alt="Qice Sun's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qicesun&layout=compact&theme=radical&langs_count=6" height="150" alt="Top Languages" />
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qicesun&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
