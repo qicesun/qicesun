@@ -30,5 +30,3 @@ Building scalable AI solutions using **Java Spring Boot** and **Python**.
 | **Vector Search** | **Milvus**, Hybrid Retrieval (Sparse/Dense), Cohere Rerank |
 | **Backend & Cloud** | Java Spring Boot, Python, Kafka, Redis, Azure AKS (Kubernetes), Docker |
 | **Observability** | Prometheus, Grafana, ELK Stack |
-
----
