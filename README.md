@@ -33,7 +33,7 @@ Building scalable AI solutions using **Java Spring Boot** and **Python**.
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Achievements
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qicesun&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=qicesun&theme=flat&no-frame=true&column=7" alt="trophy" />
 </div>
