@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Qice Sun</h1>
-  <h3>AI Application & Backend Engineer @ Walmart Global Tech</h3>
+  <h3>GenAI & Backend Engineer @ Walmart Global Tech</h3>
   <p>
     Specializing in <b>Production-Grade LLM Applications</b>, <b>Multimodal RAG</b>, and <b>Agentic Workflows</b>.
     <br>
