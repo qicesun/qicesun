@@ -4,7 +4,7 @@
   <p>
     Specializing in <b>Production-Grade LLM Applications</b>, <b>Multimodal RAG</b>, and <b>Agentic Workflows</b>.
     <br>
-    Core Contributor to the Java AI Ecosystem.
+    Major Contributor to the Java AI Ecosystem.
   </p>
   
   <p>
