@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Qice Sun</h1>
-  <h3>GenAI & Backend Engineer @ Walmart Global Tech</h3>
+  <h3>GenAI Software Engineer @ Walmart Global Tech</h3>
   <p>
     Specializing in <b>Production-Grade LLM Applications</b>, <b>Multimodal RAG</b>, and <b>Agentic Workflows</b>.
     <br>
@@ -22,7 +22,7 @@ I am actively contributing to the Java AI ecosystem, bridging the gap between en
 ---
 
 ### 🛠️ Technical Expertise
-Building scalable AI solutions using **Java Spring Boot** and **Python**.
+Building scalable AI solutions using **Java** and **Python**.
 
 | Domain | Stack |
 | --- | --- |
