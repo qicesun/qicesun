@@ -18,7 +18,7 @@
 <br/>
 
 ### 🏆 Featured Open Source Contributions
-I am a **Core Contributor** to <a href="https://github.com/langchain4j/langchain4j"><b>LangChain4j</b></a>, the standard Java framework for LLM application development.
+I am a **Core Contributor** to <a href="[https://github.com/langchain4j/langchain4j](https://github.com/langchain4j/langchain4j-community)"><b>LangChain4j</b></a>, the standard Java framework for LLM application development.
 
 - **Model Context Protocol (MCP):** Architected and implemented the Java MCP Server, enabling standardized tool exposure to Claude Desktop and AI IDEs.
 - **Enterprise RAG Loaders:** Engineered resilient document loaders for **Jira, Confluence, and GitLab**, unlocking corporate knowledge bases for RAG pipelines.
