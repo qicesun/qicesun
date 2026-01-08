@@ -22,6 +22,6 @@ I am an active contributor to the **[LangChain4j Ecosystem](https://github.com/l
 | Domain | Technologies |
 | :--- | :--- |
 | **Generative AI** | **LangGraph**, LlamaIndex, **vLLM**, RAGAS, Prompt Engineering |
-| **Vector Search** | **Milvus**, **Faiss**, **Neo4j GraphRAG**, Hybrid Search (Dense + Sparse) |
+| **Vector Search** | **Milvus**, **FAISS**, **Neo4j GraphRAG**, Hybrid Search (Dense + Sparse) |
 | **Backend & Infra** | Java (Spring Boot), Python, Kafka, Redis, Docker, Azure AKS |
 | **Observability** | Prometheus, Grafana, OpenTelemetry |
