@@ -3,7 +3,7 @@
 **GenAI Software Engineer @ Walmart Global Tech**
 Specializing in building **Production-Grade LLM Applications**, **Multimodal RAG**, and **Agentic Workflows**. I bridge the gap between Enterprise Java infrastructure and modern Python AI capabilities.
 
-[linkedin](https://www.linkedin.com/in/qice-sun-swe/) | [qicesun0401@gmail.com](mailto:qicesun0401@gmail.com)
+[qicesun0401@gmail.com](mailto:qicesun0401@gmail.com)
 
 ---
 
