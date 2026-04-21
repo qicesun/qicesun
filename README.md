@@ -1,4 +1,4 @@
-# Hi, I'm Qice Sun
+# Hi, I'm Keith(Qice) Sun
 
 **GenAI Software Engineer**
 Specializing in building **Production-Grade LLM Applications**, **Multimodal RAG**, and **Agentic Workflows**. I bridge the gap between Enterprise Java infrastructure and modern Python AI capabilities.
