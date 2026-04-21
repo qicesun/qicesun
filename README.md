@@ -1,6 +1,6 @@
 # Hi, I'm Qice Sun
 
-**GenAI Software Engineer @ Walmart Global Tech**
+**GenAI Software Engineer**
 Specializing in building **Production-Grade LLM Applications**, **Multimodal RAG**, and **Agentic Workflows**. I bridge the gap between Enterprise Java infrastructure and modern Python AI capabilities.
 
 [qicesun0401@gmail.com](mailto:qicesun0401@gmail.com)
