@@ -1,6 +1,7 @@
 # Hi, I'm Keith(Qice) Sun
 
 **Senior GenAI Software Engineer at Microsoft**
+
 Specializing in building **Production-Grade LLM Applications**, **Multimodal RAG**, and **Agentic Workflows**. I bridge the gap between Enterprise Java infrastructure and modern Python AI capabilities.
 
 [qicesun0401@gmail.com](mailto:qicesun0401@gmail.com)
