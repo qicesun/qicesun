@@ -1,6 +1,6 @@
-# Keith (Qice) Sun
+# Qice Sun
 
-**Senior GenAI Software Engineer @ Microsoft**  
+**Senior Software Engineer @ Microsoft**  
 Principal-track engineer building production LLM systems, enterprise Java AI infrastructure, and agentic platforms.
 
 I work at the intersection of **LLM applications**, **agent protocols**, **enterprise RAG**, and **AI for operations** — turning prototypes into systems that are testable, maintainable, and safe enough for real users.
