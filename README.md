@@ -46,29 +46,6 @@ Built agent-ready integrations that connect LLMs to enterprise systems:
 
 ---
 
-## Selected projects
-
-### [SRE-Agent-App](https://github.com/qicesun/SRE-Agent-App)
-
-Autonomous AI SRE agent for Kubernetes, built with **Java, Spring Boot, LangChain4j, Fabric8, GitLab, Jira, and web tooling**.
-
-It implements an **OODA loop** for incident response:
-
-> observe cluster state → orient with logs and code context → decide remediation/escalation → act through bounded tools
-
-This is my reference project for production-style agent design: scoped tools, session state, operator-facing UX, incident context, and safe action boundaries.
-
-### [chaos-swarm](https://github.com/qicesun/chaos-swarm)
-
-Synthetic user swarm for UX chaos testing.  
-A TypeScript/Next.js agent workspace that sends browser-driven personas through public web flows and turns user friction into inspectable reports.
-
-### [cna-racing](https://github.com/qicesun/cna-racing)
-
-Product engineering contributions across auth, profiles, driver UX, Supabase-backed signup, iRacing result import, DB-first standings, admin workflows, and testing.
-
----
-
 ## Technical range
 
 | Area | Stack |
