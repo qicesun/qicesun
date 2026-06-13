@@ -43,17 +43,3 @@ Built agent-ready integrations that connect LLMs to enterprise systems:
 
 - Built prompt repetition components for AI Services and RAG: policies, input guardrails, query transformers, AUTO-mode gates, idempotence, and docs.
 - Fixed LangChain4j AI Services guardrail ordering so multimodal input is materialized before guardrail execution.
-- 
----
-
-## Engineering principles
-
-- Build the **platform**, not just the demo.
-- Prefer **clear contracts, test coverage, and operational visibility** over clever abstractions.
-- Design agents with **bounded tools, graceful failures, and reviewable actions**.
-- Keep interfaces simple; move complexity into well-tested infrastructure.
-
----
-
-For collaboration on production LLM systems, AI infrastructure, MCP, Skills, enterprise RAG, or AI for SRE:  
-**qicesun0401@gmail.com**
