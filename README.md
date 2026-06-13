@@ -43,19 +43,7 @@ Built agent-ready integrations that connect LLMs to enterprise systems:
 
 - Built prompt repetition components for AI Services and RAG: policies, input guardrails, query transformers, AUTO-mode gates, idempotence, and docs.
 - Fixed LangChain4j AI Services guardrail ordering so multimodal input is materialized before guardrail execution.
-
----
-
-## Technical range
-
-| Area | Stack |
-| --- | --- |
-| AI systems | LangChain4j, LangGraph, LlamaIndex, MCP, RAG, guardrails, tool calling |
-| Backend | Java, Spring Boot, Python, REST APIs, Kafka, Redis |
-| Product | TypeScript, Next.js, Tailwind CSS, Playwright, Vercel |
-| Infra | Kubernetes, Docker, Azure AKS, Supabase, Prometheus, Grafana, OpenTelemetry |
-| Knowledge systems | Jira, Confluence, GitLab, web ingestion, document loaders, query transformation |
-
+- 
 ---
 
 ## Engineering principles
@@ -67,5 +55,5 @@ Built agent-ready integrations that connect LLMs to enterprise systems:
 
 ---
 
-For collaboration on production LLM systems, Java AI infrastructure, MCP, enterprise RAG, or AI for SRE:  
+For collaboration on production LLM systems, AI infrastructure, MCP, Skills, enterprise RAG, or AI for SRE:  
 **qicesun0401@gmail.com**
